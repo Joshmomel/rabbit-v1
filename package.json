@@ -1,0 +1,20 @@
+{
+  "name": "rabbit-v1",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "send": "node send.js",
+    "receive": "node receive.js"
+  },
+  "keywords": [
+    "rabbitmq",
+    "messaging",
+    "queue"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple RabbitMQ learning project",
+  "dependencies": {
+    "amqplib": "^0.10.7"
+  }
+}
