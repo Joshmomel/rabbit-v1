@@ -10,7 +10,9 @@
     "emit-log": "node emit_log.js",
     "receive-logs": "node receive_logs.js",
     "emit-log-direct": "node emit_log_direct.js",
-    "receive-logs-direct": "node receive_logs_direct.js"
+    "receive-logs-direct": "node receive_logs_direct.js",
+    "emit-log-topic": "node emit_log_topic.js",
+    "receive-logs-topic": "node receive_logs_topic.js"
   },
   "keywords": [
     "rabbitmq",
