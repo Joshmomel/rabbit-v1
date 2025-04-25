@@ -6,7 +6,9 @@
     "send": "node send.js",
     "receive": "node receive.js",
     "new-task": "node new_task.js",
-    "worker": "node worker.js"
+    "worker": "node worker.js",
+    "emit-log": "node emit_log.js",
+    "receive-logs": "node receive_logs.js"
   },
   "keywords": [
     "rabbitmq",
