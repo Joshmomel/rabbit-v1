@@ -8,7 +8,9 @@
     "new-task": "node new_task.js",
     "worker": "node worker.js",
     "emit-log": "node emit_log.js",
-    "receive-logs": "node receive_logs.js"
+    "receive-logs": "node receive_logs.js",
+    "emit-log-direct": "node emit_log_direct.js",
+    "receive-logs-direct": "node receive_logs_direct.js"
   },
   "keywords": [
     "rabbitmq",
